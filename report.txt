@@ -1,2 +1,5 @@
 git clone https://github.com/vichhayok/task_1_d.git
 git echo "Git clone https://github.com/vichhayok/task_1_d.git" > report.txt
+git add .
+git commit -m "Added report.txt"
+git push origin master
